@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple.
 add
 dev sta
 stash+++s+s
+add stash
